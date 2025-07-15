@@ -22,7 +22,6 @@
 - VS Code
 - Postman
 - Git & GitHub
-- Figma (basic prototyping)
 
 ---
 
@@ -41,10 +40,5 @@ I love solving real-world coding problems, optimizing applications, and diving d
 
 ## 📫 Let’s Connect!
 
-- 📧 Email: yourname@email.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-*“It’s always you vs you. Level up daily.”*
+- 📧 Email: szb8480@gmail.com
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/szaib-dev/)
