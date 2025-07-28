@@ -41,4 +41,4 @@ I love solving real-world coding problems, optimizing applications, and diving d
 ## 📫 Let’s Connect!
 
 - 📧 Email: szb8480@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/szaib-dev/)
+- 💼 LinkedIn: https://www.linkedin.com/in/szaib-dev/
