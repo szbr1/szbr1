@@ -57,15 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szbr1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
 
-## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/szbr1"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/szaib-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/szb_121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+
 
 ---
 
@@ -84,10 +78,17 @@ quote: "// This is how I grow — while (!success) { try(); } catch (error) { le
 
 #### This is how I live
 ```
-while(!success) { <br/>
-  try(); <br/>
-} catch(error) { <br/>
-  learn(); <br/>
-} <br/>
-
+while(!success) {
+  try(); 
+} catch(error) {
+  learn();
+} 
+```
 <br/>
+
+
+<p align="center">
+  <a href="https://github.com/szbr1"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/szaib-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/szb_121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
