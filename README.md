@@ -1,94 +1,64 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hey there 👋, I'm Shahzaib Mirza</h1>
-<h3 align="center">🚀 Fullstack Developer | MERN Stack Engineer | UI/UX Enthusiast</h3>
+# Hi, I'm Shahzaib Mirza 👋
 
-<br/>
+**Fullstack Developer** specializing in building modern, scalable web applications with **Next.js, TypeScript, and Prisma**.
+
+I focus on clean architecture, performance, and creating exceptional user experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+
+**State Management & Tools**  
+Zustand • Redux Toolkit • RTK Query • Git • Postman
+
+---
+
+## 💼 What I Build
+
+- Full-stack applications with **Next.js App Router** and **TypeScript**
+- Scalable REST APIs and backend services
+- Database schemas with **Prisma ORM** (PostgreSQL/MongoDB)
+- Type-safe authentication systems (BetterAuth, JWT)
+- Responsive, SEO-optimized UI with Tailwind CSS
+- Clean, maintainable code following industry best practices
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7941D&center=true&vCenter=true&width=850&lines=Hi,+I'm+Shahzaib+Mirza+-+Fullstack+Developer" 
-    alt="Typing SVG" 
-  />
-</p>
-<br />
-
-
-
-
----
-
-## 👨‍💻 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
-</div>
-
-<p align="center">
-  I'm a passionate fullstack developer who transforms ideas into responsive and interactive digital products.<br>
-  🔧 Focused on writing clean, maintainable code and crafting intuitive user experiences.
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Age-18-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code%20Style-Clean-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Design%20Systems-orange?style=flat-square" />
-</div>
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,vscode,postman" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szbr1&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szbr1&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Get in Touch
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szbr1&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szbr1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-
-
-
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:szb4299@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/shahzaib-mirza)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://yourportfolio.com)
 
 ---
-
-## 📋 Summary
 
 ```yaml
-name: Shahzaib Mirza
 role: Fullstack Developer
-stack: [React, Next.js, Node.js, MongoDB, Express]
-design: [Figma, Tailwind CSS, Design Systems]
-soft_skills: [Problem Solving, Communication]
-quote: "// This is how I grow — while (!success) { try(); } catch (error) { learn(); }"
+stack: [Next.js, TypeScript, React, Prisma]
+databases: [PostgreSQL, MongoDB]
+focus: [Clean Code, Performance, User Experience]
 ```
-## 🧠 Fun Code Quote
 
-
-#### This is how I live
-```
-while(!success) {
-  try(); 
-} catch(error) {
-  learn();
-} 
-```
-<br/>
-
-
-<p align="center">
-  <a href="https://github.com/szbr1"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/szaib-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/szb_121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+*"Building the web, one commit at a time."*
