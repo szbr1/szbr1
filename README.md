@@ -37,14 +37,6 @@ Zustand • Redux Toolkit • RTK Query • Git • Postman
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szbr1&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szbr1&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
----
 
 ## 📫 Get in Touch
 
@@ -60,5 +52,3 @@ stack: [Next.js, TypeScript, React, Prisma]
 databases: [PostgreSQL, MongoDB]
 focus: [Clean Code, Performance, User Experience]
 ```
-
-*"Building the web, one commit at a time."*
